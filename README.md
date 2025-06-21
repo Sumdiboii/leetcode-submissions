@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0001-two-sum) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sliding Window
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Math
 |  |
 | ------- |
@@ -60,8 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting
 |  |
 | ------- |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 <!---LeetCode Topics End-->
