@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0009-palindrome-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
