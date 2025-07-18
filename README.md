@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2479-meeting-rooms-iii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Memoization
@@ -154,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2479-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
