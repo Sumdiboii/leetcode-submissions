@@ -1,19 +1,16 @@
-class Solution{            //Class Solution for the C++ Code 
-    public:                //visibility mode to allow public access of class contents
-
+class Solution {
+public:
     vector<int> twoSum(vector<int>& nums, int target) {
-    unordered_map<int, int> sum;
+        int n = nums.size();
+        unordered_map<int, int> prevMap;
 
-    for (int i = 0; i < nums.size(); i++) {
-        int comp = target - nums[i];
-
-        if (sum.find(comp) != sum.end()) {
-            return {sum[comp], i};
+        for (int i = 0; i < n; i++) {
+            int diff = target - nums[i];
+            if (prevMap.find(diff) != prevMap.end()) {
+                return {prevMap[diff], i};
+            }
+            prevMap.insert({nums[i], i});
         }
-
-        sum[nums[i]] = i;
+        return {};
     }
-
-    return {};
-}
 };
