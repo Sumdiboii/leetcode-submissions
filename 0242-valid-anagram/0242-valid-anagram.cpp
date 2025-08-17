@@ -5,18 +5,24 @@ public:
         if (s.length()!=t.length()){
             return false;
         }
+
         else{
-           sort(s.begin(), s.end());
-           sort(t.begin(),t.end());
+           
+           vector<int> vect(26,0);
 
-           if(s==t){
-            return true;
+           for (int i=0; i<s.length();i++){
+            vect[s[i]-'a']++;
+            vect[t[i]-'a']--;
+           }
 
-           }
-           else{
-            return false;
-           }
+           for(int val:vect){
+            if(val!=0){
+                return false;
             }
+            
+           }
+           return true;
         
+    }
     }
 };
