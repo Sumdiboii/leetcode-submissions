@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
