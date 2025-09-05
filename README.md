@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0231-power-of-two) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
