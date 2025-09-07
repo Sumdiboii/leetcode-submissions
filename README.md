@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0498-diagonal-traverse](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0231-power-of-two) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
