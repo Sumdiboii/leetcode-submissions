@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
+| [0830-largest-triangle-area](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0231-power-of-two) |
+| [0830-largest-triangle-area](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0830-largest-triangle-area) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Brainteaser
 |  |
