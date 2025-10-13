@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1006-vowel-spellchecker](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [1006-vowel-spellchecker](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2479-meeting-rooms-iii) |
