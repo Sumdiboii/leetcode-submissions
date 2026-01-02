@@ -1,28 +1,22 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
+        unordered_map<char,int> stanS;
+        unordered_map<char,int> stanT;
 
-        if (s.length()!=t.length()){
+        int n=s.length();
+
+        if(s.length() !=t.length()){
             return false;
         }
 
-        else{
-           
-           vector<int> vect(26,0);
+        for(int i=0;i<n;i++){
+            stanS[s[i]]++;
+            stanT[t[i]]++;
+        }
 
-           for (int i=0; i<s.length();i++){
-            vect[s[i]-'a']++;
-            vect[t[i]-'a']--;
-           }
-
-           for(int val:vect){
-            if(val!=0){
-                return false;
-            }
-            
-           }
-           return true;
-        
-    }
+        if (stanS==stanT){
+            return true;
+        }else return false;
     }
 };
