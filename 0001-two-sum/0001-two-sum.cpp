@@ -10,7 +10,7 @@ public:
             if(smap.contains(diff) && smap[diff] != i){
                 return{i,smap[diff]};
             }
-            smap.insert({nums[i], i});
+            smap[nums[i]]=i;
         }
         return{};
     }
