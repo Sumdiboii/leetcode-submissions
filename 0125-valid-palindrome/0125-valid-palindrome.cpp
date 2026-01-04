@@ -1,17 +1,26 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string news="";
-        for(char c:s){
-            if(isalnum(c)){
-                news += tolower(c);
-            }
-        }
-        string rev=string(news.rbegin(), news.rend());
+        int l = 0, r = s.length() - 1;
 
-        if(news==rev){
-            return true;
+        while (l < r) {
+            while (l < r && !alphaNum(s[l])) {
+                l++;
+            }
+            while (r > l && !alphaNum(s[r])) {
+                r--;
+            }
+            if (tolower(s[l]) != tolower(s[r])) {
+                return false;
+            }
+            l++; r--;
         }
-        else return false;
+        return true;
+    }
+
+    bool alphaNum(char c) {
+        return (c >= 'A' && c <= 'Z' ||
+                c >= 'a' && c <= 'z' ||
+                c >= '0' && c <= '9');
     }
 };
