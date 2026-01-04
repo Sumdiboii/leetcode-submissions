@@ -1,21 +1,24 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> st;
-        for (char ch : s) {
-            if (ch == '(' || ch == '[' || ch == '{') {
-                st.push(ch);
-            } else {
-                if (st.empty()) {
+        std::stack<char> stack;
+        std::unordered_map<char, char> closeToOpen = {
+            {')', '('},
+            {']', '['},
+            {'}', '{'}
+        };
+
+        for (char c : s) {
+            if (closeToOpen.count(c)) {
+                if (!stack.empty() && stack.top() == closeToOpen[c]) {
+                    stack.pop();
+                } else {
                     return false;
                 }
-                char top = st.top();
-                st.pop();
-                if (ch == ')' && top != '(') return false;
-                if (ch == ']' && top != '[') return false;
-                if (ch == '}' && top != '{') return false;
+            } else {
+                stack.push(c);
             }
         }
-        return st.empty();
+        return stack.empty();
     }
 };
