@@ -1,12 +1,17 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string newStr = "";
-        for (char c : s) {
-            if (isalnum(c)) {
-                newStr += tolower(c);
+        string news="";
+        for(char c:s){
+            if(isalnum(c)){
+                news += tolower(c);
             }
         }
-        return newStr == string(newStr.rbegin(), newStr.rend());
+        string rev=string(news.rbegin(), news.rend());
+
+        if(news==rev){
+            return true;
+        }
+        else return false;
     }
 };
