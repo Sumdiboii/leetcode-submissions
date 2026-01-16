@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0704-binary-search) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0498-diagonal-traverse) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3748-sort-matrix-by-diagonals) |
