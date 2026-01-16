@@ -5,11 +5,14 @@ public:
         int longest = 0;
 
         for (int num : numSet) {
-            if (numSet.find(num - 1) == numSet.end()) {
+            // start only at the beginning of a sequence
+            if (!numSet.contains(num - 1)) {
                 int length = 1;
-                while (numSet.find(num + length) != numSet.end()) {
+
+                while (numSet.contains(num + length)) {
                     length++;
                 }
+
                 longest = max(longest, length);
             }
         }
