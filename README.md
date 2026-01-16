@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0027-remove-element) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1448-maximum-69-number) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
