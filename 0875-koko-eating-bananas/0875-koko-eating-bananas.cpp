@@ -8,17 +8,19 @@ public:
         while (l <= r) {
             int k = (l + r) / 2;
 
-            long long totalTime = 0;
+            long long timetotal = 0;
             for (int p : piles) {
-                totalTime += ceil(static_cast<double>(p) / k);
+                timetotal += ceil(static_cast<double>(p) / k);
             }
-            if (totalTime <= h) {
+
+            if (timetotal <= h) {
                 res = k;
                 r = k - 1;
             } else {
                 l = k + 1;
             }
         }
+
         return res;
     }
 };
