@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0830-largest-triangle-area](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0830-largest-triangle-area) |
+| [0875-koko-eating-bananas](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1006-vowel-spellchecker](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
