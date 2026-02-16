@@ -8,7 +8,7 @@ public:
         for(int i=0; i<nums.size(); i++){
             int diff= target - nums[i];
 
-            if(smap.contains(diff) && smap[diff] != i){
+            if(smap.count(diff) && smap[diff] != i){
                 return{i,smap[diff]};
             }
             smap[nums[i]]=i;
