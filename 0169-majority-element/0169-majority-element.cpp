@@ -4,14 +4,18 @@ public:
         unordered_map<int,int> umap;
         int n = nums.size();
 
-        for(int i = 0; i < n; i++) {
-            umap[nums[i]]++;
+        // Count frequencies
+        for(int num : nums){
+            umap[num]++;
+        }
 
-            if(umap[nums[i]] > n / 2) {
-                return nums[i];
+        // Find majority element
+        for(auto &p : umap){
+            if(p.second > n/2){
+                return p.first;
             }
         }
 
-        return -1; // will never hit (guaranteed majority)
+        return -1; // just in case, though problem guarantees a majority element exists
     }
 };
