@@ -4,20 +4,23 @@ public:
 
         unordered_set<int> window;
 
-        for(int i = 0; i < nums.size(); i++) {
+        int left = 0;
 
-            // remove element outside window
-            if(i > k) {
-                window.erase(nums[i - k - 1]);
-            }
+        for(int right = 0; right < nums.size(); right++) {
 
-            // check duplicate
-            if(window.count(nums[i])) {
+            // If duplicate found inside window
+            if(window.count(nums[right])) {
                 return true;
             }
 
-            // add element
-            window.insert(nums[i]);
+            // Add current element
+            window.insert(nums[right]);
+
+            // Shrink window if size exceeds k
+            if(right - left >= k) {
+                window.erase(nums[left]);
+                left++;
+            }
         }
 
         return false;
