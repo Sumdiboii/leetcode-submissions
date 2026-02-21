@@ -1,23 +1,22 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_set<char> chars; // stores characters in current window
-        int left = 0, maxLen = 0;
+       int maxlen = 0;
+       int l=0;
+       int n = s.length();
 
-        for (int right = 0; right < s.size(); right++) {
-            // If current char already exists in window, remove from left until it's gone
-            while (chars.count(s[right])) {
-                chars.erase(s[left]);
-                left++;
+        unordered_set<char> uset;
+
+        for( int r = 0; r<n; r++){
+
+            while(uset.contains(s[r])){
+                uset.erase(s[l]);
+                l++;
             }
+            uset.insert(s[r]);
 
-            // Add current char to window
-            chars.insert(s[right]);
-
-            // Update max length
-            maxLen = max(maxLen, right - left + 1);
+            maxlen = max(maxlen, r-l+1);
         }
-
-        return maxLen;
+        return maxlen;
     }
 };
