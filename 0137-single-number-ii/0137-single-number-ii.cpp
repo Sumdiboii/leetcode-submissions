@@ -1,17 +1,12 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int, int> umap;
-
-        for( int n: nums){
-            umap[n]++;
+        int ones = 0;
+        int twos = 0;
+        for (int num : nums) {
+            ones ^= (num & ~twos);
+            twos ^= (num & ~ones);
         }
-
-        for(const auto &ptr : umap){
-            if( ptr.second ==1){
-                return ptr.first;
-            }
-        }
-        return 0;
+        return ones;
     }
 };
