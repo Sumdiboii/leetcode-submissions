@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Heap (Priority Queue)
