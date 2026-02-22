@@ -1,23 +1,31 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if(s.size() != t.size()) return false;
+        int n = s.length();
+        int m = t.length();
 
-        unordered_map<char,int> freq;
-
-        // count s
-        for(char c : s) {
-            freq[c]++;
+        if (n != m) {
+            return false;
         }
 
-        // subtract t
-        for(char c : t) {
-            freq[c]--;
-        }
+        else {
+            unordered_map<char, int> umap;
+            //  unordered_map<char, int> umap1;
 
-        // check all zero
-        for(auto &p : freq) {
-            if(p.second != 0) return false;
+            for( char ch : s){
+                umap[ch]++;
+            }
+
+              for( char ch : t){
+                umap[ch]--;
+            }
+
+
+            for( const auto &p : umap){
+                if( p.second !=0){
+                    return false;
+                }
+            }
         }
 
         return true;
