@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
+| [0868-binary-gap](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0868-binary-gap) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
