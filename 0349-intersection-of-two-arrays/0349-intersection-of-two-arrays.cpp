@@ -1,24 +1,26 @@
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        unordered_set<int> a;
-        unordered_set<int> b;
+        unordered_set<int> uset;
         
-        for( int i : nums1){
-            a.insert(i);
-        }
+        vector<int> vect;
 
-        for( int i : nums2){
-            if(a.count(i)){
-                b.insert(i);
+        int n = nums1.size();
+        int m = nums2.size();
+
+        for( int n : nums1){
+            uset.insert(n);
+        }
+        
+        for( int n : nums2){
+            if(uset.contains(n)){
+            uset.erase(n);
+            vect.push_back(n);
             }
+            
         }
 
-        vector<int> result;
-        for(int i : b){
-            result.push_back(i);
-        }
-        return result;
-         
+    return vect;
+        
     }
 };
