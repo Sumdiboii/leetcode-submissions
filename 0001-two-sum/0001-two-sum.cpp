@@ -1,20 +1,21 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-  
-        unordered_map<int,int> smap;
-        
+        unordered_map<int, int> umap;
+        int n = nums.size();
 
-        for(int i=0; i<nums.size(); i++){
-            int diff= target - nums[i];
+        for( int i = 0; i<n;i++){
 
-            if(smap.count(diff) && smap[diff] != i){
-                return{i,smap[diff]};
+            int diff = target - nums[i];
+
+            if( umap.count(diff)){
+                return {umap[diff], i};
+
             }
-            smap[nums[i]]=i;
+
+            umap.insert({nums[i], i});
         }
-        return{};
+  return {};
+      
     }
-    
-    //one pass hashmap 
 };
