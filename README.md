@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0830-largest-triangle-area](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0830-largest-triangle-area) |
 | [0853-car-fleet](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0853-car-fleet) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
