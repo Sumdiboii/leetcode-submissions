@@ -1,26 +1,19 @@
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
-        int n = s.length();
-        int m = p.length();
+        int n = s.size(), m = p.size();
         if (m > n) return {};
-
-        unordered_map<char, int> umap1, umap2;
         vector<int> ans;
+        vector<int> cntP(26, 0), cntS(26, 0);
 
-        for (char ch : p) umap1[ch]++;
+        for (char ch : p) cntP[ch - 'a']++;
+        for (int i = 0; i < m; i++) cntS[s[i] - 'a']++;
+        if (cntS == cntP) ans.push_back(0);
 
-        // Build first window
-        for (int r = 0; r < m; r++) umap2[s[r]]++;
-        if (umap1 == umap2) ans.push_back(0);
-
-        // Slide window
-        for (int r = m; r < n; r++) {
-            umap2[s[r]]++;                // add new char
-            umap2[s[r - m]]--;            // remove left char
-            if (umap2[s[r - m]] == 0) umap2.erase(s[r - m]); // erase zero count
-
-            if (umap1 == umap2) ans.push_back(r - m + 1); // push start index
+        for (int i = m; i < n; i++) {
+            cntS[s[i] - 'a']++;
+            cntS[s[i - m] - 'a']--;
+            if (cntS == cntP) ans.push_back(i - m + 1);
         }
 
         return ans;
