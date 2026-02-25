@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1470-shuffle-the-array) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0853-car-fleet) |
 | [1018-largest-perimeter-triangle](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2479-meeting-rooms-iii) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0868-binary-gap](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
