@@ -576,5 +576,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
