@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0498-diagonal-traverse) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0868-binary-gap](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
