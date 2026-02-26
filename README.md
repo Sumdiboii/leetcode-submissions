@@ -573,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
