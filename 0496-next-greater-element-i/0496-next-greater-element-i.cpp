@@ -1,27 +1,35 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-    unordered_map<int,int> nextGreater;
-    stack<int> st;
     
-    for(int num : nums2) {
-        while(!st.empty() && st.top() < num) {
-            nextGreater[st.top()] = num;
+    int n = nums2.size();
+    vector<int> ans(n, -1);
+    stack<int> st;   // stores indices
+    
+    // ===== TEMPLATE START =====
+    for(int i = 0; i < n; i++) {
+        
+        while(!st.empty() && nums2[st.top()] < nums2[i]) {
+            ans[st.top()] = nums2[i];
             st.pop();
         }
-        st.push(num);
+        
+        st.push(i);
+    }
+    // ===== TEMPLATE END =====
+    
+    // Step 2: Map values -> next greater
+    unordered_map<int,int> mp;
+    for(int i = 0; i < n; i++) {
+        mp[nums2[i]] = ans[i];
     }
     
-    while(!st.empty()) {
-        nextGreater[st.top()] = -1;
-        st.pop();
-    }
-    
-    vector<int> ans;
+    // Step 3: Answer nums1 queries
+    vector<int> result;
     for(int num : nums1) {
-        ans.push_back(nextGreater[num]);
+        result.push_back(mp[num]);
     }
     
-    return ans;
+    return result;
 }
 };
