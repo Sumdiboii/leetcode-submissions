@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
+| [0346-moving-average-from-data-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0346-moving-average-from-data-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0346-moving-average-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Heap (Priority Queue)
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0346-moving-average-from-data-stream) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Game Theory
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0346-moving-average-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Interactive
 |  |
