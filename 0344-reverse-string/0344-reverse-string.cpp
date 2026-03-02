@@ -1,11 +1,15 @@
+
+#include<utility>
+
 class Solution {
 public:
     void reverseString(vector<char>& s) {
-        // int  l =0; 
-        // int r  = s.size()-1;
-
-        // while()
-
-        reverse( s.begin(), s.end());
+        int left= 0;
+        int right = (s.size()-1);
+        
+        while(left < right){
+         swap(s[right], s[left]);
+         right--; left++;
+}
     }
 };
