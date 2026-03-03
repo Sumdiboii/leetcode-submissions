@@ -9,24 +9,21 @@ public:
             umap[n]++;
         }
 
-        // Step 2: move map to vector of pairs
-        vector<pair<int,int>> vec;
+        // Step 2: max heap (frequency, number)
+        priority_queue<pair<int,int>> pq;
+
         for(auto p : umap){
-            vec.push_back(p); // {number, frequency}
+            pq.push({p.second, p.first});
         }
 
-        // Step 3: sort based on frequency descending
-        sort(vec.begin(), vec.end(),
-             [](pair<int,int>& a, pair<int,int>& b){
-                 return a.second > b.second;
-             });
+        // Step 3: get top k elements
+        vector<int> ans;
 
-        // Step 4: take top k numbers
-        vector<int> result;
-        for(int i = 0; i < k; i++){
-            result.push_back(vec[i].first);
+        while(k--){
+            ans.push_back(pq.top().second);
+            pq.pop();
         }
 
-        return result;
+        return ans;
     }
 };
