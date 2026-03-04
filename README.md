@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1672-richest-customer-wealth](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1672-richest-customer-wealth) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0766-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1672-richest-customer-wealth) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3748-sort-matrix-by-diagonals) |
