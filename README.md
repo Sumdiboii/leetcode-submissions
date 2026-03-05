@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
