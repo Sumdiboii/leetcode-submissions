@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0217-contains-duplicate) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0346-moving-average-from-data-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0346-moving-average-from-data-stream) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 ## Geometry
 |  |
@@ -631,4 +634,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0620-not-boring-movies) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
