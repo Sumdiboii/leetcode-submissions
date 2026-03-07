@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1046-last-stone-weight](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1046-last-stone-weight) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1006-vowel-spellchecker) |
 | [1189-maximum-number-of-balloons](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
