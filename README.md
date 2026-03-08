@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1146-snapshot-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1146-snapshot-array) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1213-intersection-of-three-sorted-arrays) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1146-snapshot-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1146-snapshot-array) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1213-intersection-of-three-sorted-arrays) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1539-kth-missing-positive-number) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0887-super-egg-drop](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0887-super-egg-drop) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
