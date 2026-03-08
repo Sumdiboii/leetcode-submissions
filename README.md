@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0704-binary-search](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0724-find-pivot-index) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0704-binary-search](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0436-find-right-interval) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0791-custom-sort-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0791-custom-sort-string) |
 | [0853-car-fleet](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -527,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1046-last-stone-weight) |
