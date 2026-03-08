@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0436-find-right-interval](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0496-next-greater-element-i) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0436-find-right-interval](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0436-find-right-interval) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0791-custom-sort-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0791-custom-sort-string) |
