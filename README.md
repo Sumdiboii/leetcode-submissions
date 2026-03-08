@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0704-binary-search](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0739-daily-temperatures) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
+| [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0704-binary-search](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
+| [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 ## Database
 |  |
 | ------- |
