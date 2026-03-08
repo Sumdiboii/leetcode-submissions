@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1146-snapshot-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1146-snapshot-array) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1213-intersection-of-three-sorted-arrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1146-snapshot-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1146-snapshot-array) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1213-intersection-of-three-sorted-arrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1539-kth-missing-positive-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
