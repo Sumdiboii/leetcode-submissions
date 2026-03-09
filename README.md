@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
+| [2564-substring-xor-queries](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2564-substring-xor-queries) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2479-meeting-rooms-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2479-meeting-rooms-iii) |
+| [2564-substring-xor-queries](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2564-substring-xor-queries) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3713-longest-balanced-substring-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3713-longest-balanced-substring-i) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2564-substring-xor-queries](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2564-substring-xor-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3462-vowels-game-in-a-string) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
+| [2564-substring-xor-queries](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2564-substring-xor-queries) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
