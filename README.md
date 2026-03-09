@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0791-custom-sort-string) |
+| [0844-backspace-string-compare](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1006-vowel-spellchecker](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1006-vowel-spellchecker) |
 | [1189-maximum-number-of-balloons](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0498-diagonal-traverse) |
+| [0844-backspace-string-compare](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0853-car-fleet) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Segment Tree
