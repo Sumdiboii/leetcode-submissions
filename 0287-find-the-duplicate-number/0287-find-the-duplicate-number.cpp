@@ -1,16 +1,19 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        unordered_set<int> numset;
-        for(int num:nums){
+        int n  = nums.size();
 
-            if(numset.contains(num)){
-                int res=num;
-                return res;
+        unordered_map<int,int> umap;
+
+        for (int n : nums){
+            umap[n]++;
+        }
+
+        for( const auto p : umap){
+            if(p.second != 1){
+                return p.first;
             }
-            numset.insert(num);
         }
         return 0;
-
     }
 };
