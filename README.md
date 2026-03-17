@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0088-merge-sorted-array) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0189-rotate-array) |
