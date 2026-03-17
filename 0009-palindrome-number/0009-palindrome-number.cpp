@@ -1,16 +1,29 @@
 class Solution {
 public:
-    bool isPalindrome(int x) {
-        if (x < 0) return false;
+    bool isPalindrome(int y) {
 
-        string s = to_string(x);
-        int l = 0, r = s.length() - 1;
+int x = y;
 
-        while (l < r) {
-            if (s[l] != s[r]) return false;
-            l++;
-            r--;
-        }
-        return true;
+int rem = 0;
+long long rev = 0;
+if( x < 0){
+    return false;
+}
+
+while(x !=0){
+    rem  = x%10;
+    // if(rev =< INT_MIN || rev >= INT_MAX){
+    //     return false;
+    // }
+    rev = rev * 10 + rem;
+    x= x/10;
+}
+
+if (rev == y)
+{
+    return true;
+}
+return false;
+
     }
 };
