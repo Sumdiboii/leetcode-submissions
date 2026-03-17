@@ -1,33 +1,34 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        int n = s.length();
-        int m = t.length();
+         int n = s.length();
+         int m = t.length();
 
-        if (n != m) {
+         if( n != m ){
             return false;
-        }
+         }
+         else{
 
-        else {
-            unordered_map<char, int> umap;
-            //  unordered_map<char, int> umap1;
+            vector< int> vect(26,0);
 
             for( char ch : s){
-                umap[ch]++;
+                vect[ch -'a']++;
             }
 
-              for( char ch : t){
-                umap[ch]--;
+            
+            for( char ch : t){
+                vect[ch -'a']--;
             }
 
-
-            for( const auto &p : umap){
-                if( p.second !=0){
+            
+            for( const auto count  : vect){
+                if( count != 0){
                     return false;
                 }
             }
-        }
 
-        return true;
+
+         }
+         return true;
     }
 };
