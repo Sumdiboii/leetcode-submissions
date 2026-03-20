@@ -5,46 +5,58 @@ static const auto fast_io = []() {
     return 0;
 }();
 
+#define all(n) nums.begin(), nums.end()
+
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
         int n = nums.size();
-        sort(nums.begin(), nums.end());
-        vector<vector<int>> ans;
+        vector<vector<int>> result;
+
+        sort(all(n));
 
         for (int i = 0; i < n; i++) {
-            if (i > 0 && nums[i] == nums[i - 1])
+            if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
+            }
 
             for (int j = i + 1; j < n; j++) {
-                if (j > i + 1 && nums[j] == nums[j - 1])
+                if (j > i+1 && nums[j] == nums[j - 1]) {
                     continue;
+                }
 
-                int start = j + 1, end = n - 1;
+                int l = j + 1;
+                int r = n - 1;
 
-                while (start < end) {
-                    long long sum = (long long)nums[i] + nums[j] +
-                                    nums[start] + nums[end];
+                while (l < r) {
 
-                    if (sum == target) {
-                        ans.push_back({nums[i], nums[j], nums[start], nums[end]});
-                        start++;
-                        end--;
+                    long long sum  = 1LL * nums[l] + nums[r] + nums[i] + nums[j];
+                    if ( sum == target) {
+                        result.push_back({nums[i], nums[j], nums[l], nums[r]});
 
-                        while (start < end && nums[start] == nums[start - 1])
-                            start++;
-                        while (start < end && nums[end] == nums[end + 1])
-                            end--;
+                        while(l<r && nums[l] == nums[l+1]){
+                            l++;
+                        }
+
+                        while(l<r && nums[r] == nums[r-1]){
+                            r--;
+                        }
+
+                        l++;
+                        r--;
                     }
-                    else if (sum < target) {
-                        start++;
+
+                    else if(sum < target){
+                        l++;
                     }
-                    else {
-                        end--;
+                    else{
+                        r--;
                     }
                 }
+
+
             }
         }
-        return ans;
+        return result;
     }
 };
