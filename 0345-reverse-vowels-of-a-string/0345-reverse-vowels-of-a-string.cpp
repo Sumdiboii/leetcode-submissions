@@ -4,17 +4,18 @@ public:
         int l = 0;
         int r = s.length() - 1;
 
-        while(l < r){
+        auto isvowel = [](char ch) {
+            return (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
+                    ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U');
+        };
 
-            while(l < r && 
-                  s[l] != 'a' && s[l] != 'e' && s[l] != 'i' && s[l] != 'o' && s[l] != 'u' &&
-                  s[l] != 'A' && s[l] != 'E' && s[l] != 'I' && s[l] != 'O' && s[l] != 'U'){
+        while (l < r) {
+
+            while (l < r && !isvowel(s[l])) {
                 l++;
             }
 
-            while(l < r && 
-                  s[r] != 'a' && s[r] != 'e' && s[r] != 'i' && s[r] != 'o' && s[r] != 'u' &&
-                  s[r] != 'A' && s[r] != 'E' && s[r] != 'I' && s[r] != 'O' && s[r] != 'U'){
+            while (l < r && !isvowel(s[r])) {
                 r--;
             }
 
