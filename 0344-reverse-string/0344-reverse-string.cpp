@@ -1,15 +1,23 @@
+#define n s.size()
 
-#include<utility>
+static const auto fast_io = [](){
+    ios:: sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 0;
+} ();
+
 
 class Solution {
 public:
     void reverseString(vector<char>& s) {
-        int left= 0;
-        int right = (s.size()-1);
-        
-        while(left < right){
-         swap(s[right], s[left]);
-         right--; left++;
-}
+        int l =0;
+        int r = n-1;
+
+        while(l<r) {
+            swap (s[l], s[r]);
+            l++;
+            r--;
+        }
     }
 };
