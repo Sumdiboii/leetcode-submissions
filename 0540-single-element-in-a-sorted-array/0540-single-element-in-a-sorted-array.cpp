@@ -1,18 +1,20 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int l = 0, r = nums.size() - 1;
+        int n = nums.size();
 
-        while (l < r) {
-            int mid = l + (r - l) / 2;
-            if (mid % 2 == 1) 
-                mid--;
-            if (nums[mid] == nums[mid + 1]) {
-                l = mid + 2;
-            } else {
-                r = mid;
+        unordered_map<int, int> umap;
+
+        for (int n : nums) {
+            umap[n]++;
+        }
+
+        for (auto& p : umap) {
+            if (p.second == 1) {
+                return p.first;
             }
         }
-        return nums[l];
+
+        return 0;
     }
 };
