@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0367-valid-perfect-square](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0441-arranging-coins) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0506-relative-ranks) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
@@ -696,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0766-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
