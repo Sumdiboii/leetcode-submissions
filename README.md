@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0791-custom-sort-string) |
+| [0796-rotate-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1006-vowel-spellchecker](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1006-vowel-spellchecker) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0796-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
