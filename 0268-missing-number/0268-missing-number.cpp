@@ -1,19 +1,20 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        int n = nums.size()+1;
+        int n = nums.size();
 
-        int maxsum = (n* (n-1))/2;
-        int sum =0;
+        int sum = n * (n + 1) / 2;
+        int aqsum = 0;
 
-        for(int num : nums){
-                sum += num;
+        for (int n : nums) {
+            aqsum += n;
         }
 
-        int res = maxsum - sum;
-
-        return res;
-
-
+        if( aqsum == sum ){
+            return 0;
+        }
+        else{
+            return sum - aqsum;
+        }
     }
 };
