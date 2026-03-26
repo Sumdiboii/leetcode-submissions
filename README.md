@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0346-moving-average-from-data-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0346-moving-average-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0346-moving-average-from-data-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0346-moving-average-from-data-stream) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
