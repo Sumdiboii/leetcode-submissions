@@ -11,7 +11,7 @@ public:
 
             string key = "";
             for (int i = 0; i < 26; i++) {
-                key += to_string(count[i]) + "#";
+                key += to_string(count[i]) + "trolololo";
             }
 
             res[key].push_back(s);
