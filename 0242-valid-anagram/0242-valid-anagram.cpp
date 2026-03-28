@@ -1,34 +1,26 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-         int n = s.length();
-         int m = t.length();
-
-         if( n != m ){
+        if( s.length() != t.length()){
             return false;
-         }
-         else{
-
-            vector< int> vect(26,0);
+        }
+        else{
+            vector<int> freq(26,0);
 
             for( char ch : s){
-                vect[ch -'a']++;
+                freq[ch - 'a']++;
             }
-
-            
             for( char ch : t){
-                vect[ch -'a']--;
+                freq[ch - 'a']--;
             }
 
-            
-            for( const auto count  : vect){
-                if( count != 0){
+            for( int i : freq){
+                if(i != 0){
                     return false;
                 }
             }
+        }
 
-
-         }
-         return true;
+        return true;
     }
 };
