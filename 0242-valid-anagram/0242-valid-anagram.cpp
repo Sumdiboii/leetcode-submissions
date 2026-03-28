@@ -5,20 +5,19 @@ public:
             return false;
         }
         else{
-            vector<int> freq(26,0);
+            vector<int> freq1(26,0);
+            vector<int> freq2(26,0);
 
             for( char ch : s){
-                freq[ch - 'a']++;
+                freq1[ch - 'a']++;
             }
             for( char ch : t){
-                freq[ch - 'a']--;
+                freq2[ch - 'a']++;
             }
 
-            for( int i : freq){
-                if(i != 0){
-                    return false;
-                }
-            }
+           if(freq1 != freq2){
+            return false;
+           }
         }
 
         return true;
