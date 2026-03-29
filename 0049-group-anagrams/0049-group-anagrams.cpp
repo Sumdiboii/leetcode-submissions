@@ -5,27 +5,34 @@ public:
         unordered_map<string, vector<string>> umap;
 
         for (string s : strs) {
-            vector<int> freq(26, 0);
 
+            vector<int> freq(26, 0);
             for (char ch : s) {
-                freq[ch - 'a']++;
+                
+
+                freq[ ch - 'a']++;
+
             }
 
             string key = "";
 
-            for (int i = 0; i < 26; i++) {
-                key += to_string(freq[i]) + "#";
+            for( int count : freq){
+                key+= to_string(count) + "brev";
             }
 
             umap[key].push_back(s);
         }
 
-        vector<vector<string>> result;
+        vector<vector<string>> vect;
 
-        for (auto& p : umap) {
-            result.push_back(p.second);
+        for( auto & p : umap){
+            vect.push_back(p.second);
         }
 
-        return result;
+        return vect;
+
+
+
+
     }
 };
