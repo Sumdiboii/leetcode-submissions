@@ -4,20 +4,34 @@ public:
         vector<string> words;
         stringstream ss(s);
         string word;
-
-        while(ss >> word){
+        while(ss>>word){
             words.push_back(word);
         }
-        if(words.size() != pattern.size()) return false;
-        unordered_map<string,char>mp1;
-        unordered_map<char,string>mp2;
 
-        for(int i =0 ;i< words.size();i++){
-            if(mp1.count(words[i]) && mp1[words[i]] != pattern[i]) return false;
-            if(mp2.count(pattern[i]) && mp2[pattern[i]]!= words[i]) return false;
+        unordered_map<char, string> umap1;
+        unordered_map<string, char> umap2;
 
-            mp1[words[i]] = pattern[i];
-            mp2[pattern[i]] = words[i];
+        int n = pattern.size();
+        int m = words.size();
+
+        if(n != m ){
+            return false;
+        }
+
+       
+
+        for( int i = 0; i< n ; i++){
+
+            if(umap1.count(pattern[i]) && umap1[pattern[i]] != words[i]){
+                return false;
+            }
+
+            if(umap2.count(words[i]) && umap2[words[i]] != pattern[i]){
+                return false;
+            }
+            umap1[pattern[i]] = words[i];
+            
+            umap2[words[i]] = pattern[i];
         }
         return true;
     }
