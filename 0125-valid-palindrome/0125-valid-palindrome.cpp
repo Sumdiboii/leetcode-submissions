@@ -1,34 +1,25 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-stringstream ss (s);
-string word = "";
-        string result = "";
+        int left = 0, right = s.size() - 1;
 
-        while( ss>>word){
-            for(char ch : word){
-                if(isalnum(ch)){
-                    result += tolower(ch);
-                }
+        while (left < right) {
+
+            // skip non-alphanumeric (left)
+            while (left < right && !isalnum(s[left])) left++;
+
+            // skip non-alphanumeric (right)
+            while (left < right && !isalnum(s[right])) right--;
+
+            // compare lowercase
+            if (tolower(s[left]) != tolower(s[right])) {
+                return false;
             }
+
+            left++;
+            right--;
         }
-string result2 = result;
 
-        reverse(result.begin(), result.end());
-
-        if( result == result2){
-            return true;
-        }
-        else return false;
-
-        
-
-
-
-        
-
-
-
-
+        return true;
     }
 };
