@@ -5,7 +5,7 @@ public:
             unordered_set<char> vowels{'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'};
             int count = 0;
             for (char c : str) {
-                if (vowels.count(c) > 0) {
+                if (vowels.count(c) ) {
                     count++;
                 }
             }
