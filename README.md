@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1006-vowel-spellchecker](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1006-vowel-spellchecker) |
+| [1143-longest-common-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0887-super-egg-drop](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0887-super-egg-drop) |
+| [1143-longest-common-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
