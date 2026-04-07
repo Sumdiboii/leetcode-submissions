@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1929-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2479-meeting-rooms-iii) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1146-snapshot-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2069-walking-robot-simulation-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
