@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0346-moving-average-from-data-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0392-is-subsequence) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
