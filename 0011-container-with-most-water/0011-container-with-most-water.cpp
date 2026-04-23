@@ -17,7 +17,7 @@ public:
             b = right-left;
             area = l* b;
 
-            if(h[left] > h[right]){
+            if(h[left] >= h[right]){
                 right--;
             }
             else{
