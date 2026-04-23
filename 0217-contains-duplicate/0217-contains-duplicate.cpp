@@ -5,7 +5,7 @@ public:
 
         for( auto n : nums){
 
-            if(uset.count(n)){
+            if(uset.find(n) != uset.end()){
                 return true;
             }
             uset.insert(n);
