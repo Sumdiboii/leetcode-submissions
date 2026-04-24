@@ -5,23 +5,22 @@ public:
 
         while (l <= r) {
             int mid = l + (r - l) / 2;
-
             if (nums[mid] == target) return mid;
 
-            // Check if left half is sorted
+            // Left side is sorted
             if (nums[l] <= nums[mid]) {
                 if (nums[l] <= target && target < nums[mid]) {
-                    r = mid - 1; // Target is in the left half
+                    r = mid - 1;
                 } else {
-                    l = mid + 1; // Target is in the right half
+                    l = mid + 1;
                 }
             } 
-            // Otherwise, the right half must be sorted
+            // Right side is sorted
             else {
                 if (nums[mid] < target && target <= nums[r]) {
-                    l = mid + 1; // Target is in the right half
+                    l = mid + 1;
                 } else {
-                    r = mid - 1; // Target is in the left half
+                    r = mid - 1;
                 }
             }
         }
