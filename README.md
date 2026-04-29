@@ -859,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Monotonic Stack
 |  |
@@ -900,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -913,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -975,5 +978,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
