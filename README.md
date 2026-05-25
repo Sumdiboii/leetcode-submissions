@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0049-group-anagrams) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0039-combination-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Bit Manipulation
 |  |
