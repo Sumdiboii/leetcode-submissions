@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -684,12 +685,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0190-reverse-bits) |
