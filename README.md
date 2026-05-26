@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0498-diagonal-traverse) |
+| [0502-ipo](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0860-lemonade-change) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
