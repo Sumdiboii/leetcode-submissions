@@ -1,20 +1,21 @@
 class Solution {
 public:
+    int solve(int n, vector<int>& memo) {
+        // Base Cases: 1 way for step 1, 2 ways for step 2
+        if (n <= 2) return n;
+        
+        // Check the notepad: If we already calculated step n, return it instantly
+        if (memo[n] != -1) return memo[n];
+        
+        // Otherwise, calculate it recursively and save the result in the notepad
+        memo[n] = solve(n - 1, memo) + solve(n - 2, memo);
+        
+        return memo[n];
+    }
+
     int climbStairs(int n) {
-        // We need size n+3 to safely hold dp[n+1] and dp[n+2] base cases
-        vector<int> dp(n + 3); 
-
-        // Base cases at the TOP of the stairs
-        dp[n] = 1;     // There is 1 way to finish if you are already at the top (do nothing)
-        dp[n+1] = 0;   // 0 ways to finish if you stepped past the roof
-        dp[n+2] = 0;   
-
-        // Loop backwards from the top down to 0
-        for (int i = n - 1; i >= 0; i--) {
-            dp[i] = dp[i+1] + dp[i+2];
-        }
-
-        // The answer is the number of ways to finish starting from step 0
-        return dp[0]; 
+        // Create a memoization array filled with -1 (meaning "uncalculated")
+        vector<int> memo(n + 1, -1);
+        return solve(n, memo);
     }
 };
