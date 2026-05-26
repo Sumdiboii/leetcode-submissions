@@ -1,19 +1,20 @@
 class Solution {
 public:
     int climbStairs(int n) {
+        // We need size n+3 to safely hold dp[n+1] and dp[n+2] base cases
+        vector<int> dp(n + 3); 
 
-        // if (n <= 2) return n;
+        // Base cases at the TOP of the stairs
+        dp[n] = 1;     // There is 1 way to finish if you are already at the top (do nothing)
+        dp[n+1] = 0;   // 0 ways to finish if you stepped past the roof
+        dp[n+2] = 0;   
 
-        vector<int> dp(n+2);
-
-        dp[0] = 1; dp[1] = 1;
-        dp[2] = 2;
-
-
-        for( int i = 3; i<=n; i++){
-            dp[i] = dp[i-1] + dp[i-2];
+        // Loop backwards from the top down to 0
+        for (int i = n - 1; i >= 0; i--) {
+            dp[i] = dp[i+1] + dp[i+2];
         }
 
-        return dp[n];
+        // The answer is the number of ways to finish starting from step 0
+        return dp[0]; 
     }
 };
