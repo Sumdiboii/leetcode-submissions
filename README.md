@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0344-reverse-string) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0279-perfect-squares) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0342-power-of-four) |
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0394-decode-string) |
