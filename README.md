@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0072-edit-distance) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
