@@ -764,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0868-binary-gap](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0868-binary-gap) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
