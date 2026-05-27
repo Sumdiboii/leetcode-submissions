@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2479-meeting-rooms-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2479-meeting-rooms-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2479-meeting-rooms-iii) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2938-separate-black-and-white-balls](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2938-separate-black-and-white-balls) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2479-meeting-rooms-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2479-meeting-rooms-iii) |
 | [2542-maximum-subsequence-score](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2542-maximum-subsequence-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2558-take-gifts-from-the-richest-pile) |
