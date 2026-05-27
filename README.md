@@ -799,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0346-moving-average-from-data-stream) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1146-snapshot-array) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0901-online-stock-span) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -1076,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0346-moving-average-from-data-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0346-moving-average-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0933-number-of-recent-calls) |
 ## Interactive
 |  |
