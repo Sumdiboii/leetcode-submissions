@@ -978,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1001,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1020,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0733-flood-fill) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -1041,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
