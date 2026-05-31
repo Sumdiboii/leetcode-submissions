@@ -21,6 +21,6 @@ public:
         }
 
         // If we successfully matched all characters of s, i will equal n
-        return i == n;
+        return i >= n;
     }
 };
