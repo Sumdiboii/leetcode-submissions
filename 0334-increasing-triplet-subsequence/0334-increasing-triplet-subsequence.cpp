@@ -1,18 +1,26 @@
 class Solution {
 public:
     bool increasingTriplet(vector<int>& nums) {
-        int first = INT_MAX, second = INT_MAX;
+        int n = nums.size();
 
-        for (int num : nums) {
-            if (num <= first) {
-                first = num;          // smallest so far
-            } else if (num <= second) {
-                second = num;         // second smallest
-            } else {
-                return true;          // found num > second → triplet exists
+        int a = INT_MAX;
+        int b = INT_MAX;
+
+
+        for( auto n : nums){
+            if( n <= a){
+                a = n;
+            }else if ( n <= b){
+                b = n;
             }
-        }
+                else{
+                    return true;
+                }
+            }
+        
 
-        return false;                 // no triplet found
+
+
+        return false;
     }
 };
