@@ -4,25 +4,23 @@ public:
         int n = s.length();
         int m = t.length();
 
-        int l = 0;
-        int r = 0;
-        int count = 0;
+        // Edge case: s cannot be a subsequence of t if it's longer
+        if (n > m) return false;
 
+        int i = 0; // Pointer for s
+        int j = 0; // Pointer for t
 
-        while(r<m && n<=m){
-            if(s[l]==t[r]){
-                l++;
-                r++;
-                count++;
+        // Traverse both strings
+        while (i < n && j < m) {
+            // If characters match, move the pointer in s
+            if (s[i] == t[j]) {
+                i++;
             }
-            else{
-                r++;
-            }
+            // Always move the pointer in t
+            j++;
         }
 
-        if( count == n){
-            return true;
-        }
-        return false;
+        // If we successfully matched all characters of s, i will equal n
+        return i == n;
     }
 };
