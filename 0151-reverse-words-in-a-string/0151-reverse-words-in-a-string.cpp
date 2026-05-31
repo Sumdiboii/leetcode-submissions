@@ -10,7 +10,7 @@ public:
 
      }   
 
-     if( !empty(res)){
+     if( !res.empty()){
         res.pop_back();
      }
 
