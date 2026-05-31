@@ -11,6 +11,7 @@ public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
         vector<int> res(n, 1);
+        vector<int> des(n, 1);
 
         int pre = 1, post = 1;
 
@@ -20,12 +21,26 @@ public:
             pre = pre * nums[i];
         }
 
-        // Pass 2: multiply suffix products
-        for (int i = n - 1; i >= 0; i--) {
-            res[i] = post * res[i];
+         for (int i = n-1; i >= 0; i--) {
+            des[i] = post;
             post = post * nums[i];
         }
 
-        return res;
+
+        vector< int > finalres(n, 1);
+
+         for (int i = 0; i < n; i++) {
+            finalres[i] = res[i] * des[i];
+        }
+
+
+
+        // Pass 2: multiply suffix products
+        // for (int i = n - 1; i >= 0; i--) {
+        //     res[i] = post * res[i];
+        //     post = post * nums[i];
+        // }
+
+        return finalres;
     }
 };
