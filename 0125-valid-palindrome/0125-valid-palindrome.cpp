@@ -1,24 +1,28 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int n = s.length();
-        int l = 0;
-        int r = n-1;
+        int l = 0; 
+        int r = s.length() - 1;
 
-        while(l<r){
-            while(l<r && !isalnum(s[l])){
+        while (l < r) {
+            // If left character is not alphanumeric, skip it and restart loop
+            if (!isalnum(s[l])) {
                 l++;
-            } 
-            while(l<r && !isalnum(s[r])){
-                r--;
-            } 
-
-            if(tolower(s[l]) != tolower(s[r])){
-                return false;
+                continue; 
             }
-            else{
-                l++;
+            
+            // If right character is not alphanumeric, skip it and restart loop
+            if (!isalnum(s[r])) {
                 r--;
+                continue;
+            }
+
+            // Now both s[l] and s[r] are guaranteed to be valid alphanumeric characters
+            if (tolower(s[l]) == tolower(s[r])) {
+                l++; 
+                r--;
+            } else {
+                return false;
             }
         }
 
