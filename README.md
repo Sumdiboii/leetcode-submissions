@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -887,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0901-online-stock-span) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Segment Tree
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
 | ------- |
