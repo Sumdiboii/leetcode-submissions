@@ -1,38 +1,32 @@
 class MyHashMap {
 public:
-    int n = 10000;
-    vector<vector<pair<int,int>>> arr;
-
     MyHashMap() {
-        arr.resize(n);  
+        _map.fill(-1);
     }
 
+    int hash(int key) {
+       return key % 100000;
+    }
+    
     void put(int key, int value) {
-        int idx = key % n;
-        for (auto &[a, b] : arr[idx]) {
-            if (a == key) {
-                b = value;
-                return;
-            }
-        }
-        arr[idx].push_back({key, value});
+        _map[hash(key)] = value;
     }
-
+    
     int get(int key) {
-        int idx = key % n;
-        for (auto &[a, b] : arr[idx]) {
-            if (a == key) return b;
-        }
-        return -1;
+        return _map[hash(key)] == -1 ? -1 : _map[hash(key)];
     }
-
+    
     void remove(int key) {
-        int idx = key % n;
-        for (int i = 0; i < arr[idx].size(); i++) {
-            if (arr[idx][i].first == key) {
-                arr[idx].erase(arr[idx].begin() + i);
-                return;
-            }
-        }
+        _map[hash(key)] = -1;
     }
+private:
+    array<int, 100000> _map;
 };
+
+/**
+ * Your MyHashMap object will be instantiated and called as such:
+ * MyHashMap* obj = new MyHashMap();
+ * obj->put(key,value);
+ * int param_2 = obj->get(key);
+ * obj->remove(key);
+ */
