@@ -1,19 +1,20 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        for(int i=0;i<nums2.size();i++){
-            nums1.push_back(nums2[i]);
+        // 1. Safely append all elements of nums2 into nums1
+        nums1.insert(nums1.end(), nums2.begin(), nums2.end());
+
+        // 2. Sort the combined vector correctly
+        sort(nums1.begin(), nums1.end());
+
+        int len = nums1.size();
+
+        // 3. Calculate median based on even or odd length
+        if (len % 2 == 0) {
+            // Use 0.5 or double casting to prevent integer division truncation
+            return (nums1[len / 2 - 1] + nums1[len / 2]) / 2.0;
+        } else {
+            return nums1[len / 2];
         }
-        sort(nums1.begin(),nums1.end());
-        if(nums1.size()%2==0){
-            double mid1=nums1[(nums1.size()/2)-1];
-            double mid2=nums1[nums1.size()/2];
-            return (mid1+mid2)/2.0;
-        }
-        else{
-            return nums1[nums1.size()/2];
-        }
-       
-        
     }
 };
