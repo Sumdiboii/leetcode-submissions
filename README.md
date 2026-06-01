@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0704-binary-search](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0720-longest-word-in-dictionary](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0733-flood-fill) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0706-design-hashmap](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0720-longest-word-in-dictionary](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0904-fruit-into-baskets) |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0346-moving-average-from-data-stream) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
@@ -932,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Geometry
@@ -1171,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0706-design-hashmap](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0706-design-hashmap) |
 ## Graph Theory
 |  |
 | ------- |
