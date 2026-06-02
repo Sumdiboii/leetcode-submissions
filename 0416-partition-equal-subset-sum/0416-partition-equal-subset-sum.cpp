@@ -10,7 +10,7 @@ public:
         vector<bool> dp(targetSum + 1, false);
         dp[0] = true;
         for (int n : nums) {
-            for (int currSum = targetSum; currSum >= n; --currSum) {
+            for (int currSum = targetSum; currSum >= n; currSum--) {
                 dp[currSum] = dp[currSum] || dp[currSum - n];
                 if (dp[targetSum]) return true;
             }
