@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1046-last-stone-weight](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 | [1146-snapshot-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1146-snapshot-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1213-intersection-of-three-sorted-arrays) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0887-super-egg-drop](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0887-super-egg-drop) |
+| [1049-last-stone-weight-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
