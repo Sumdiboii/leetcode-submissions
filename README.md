@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0415-add-strings) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0216-combination-sum-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0494-target-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Bit Manipulation
