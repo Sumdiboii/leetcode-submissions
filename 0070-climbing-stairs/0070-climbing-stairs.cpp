@@ -1,17 +1,19 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        vector< int> dp(n+1, 0);
+        // Handle the edge case where n = 1 (or 0)
+        if (n <= 1) return 1;
 
-        dp[0] = 1;
-        dp[1] = 1;
-        // dp[2] = 2;
+        int prev1 = 1; // Represents dp[i-1]
+        int prev2 = 1; // Represents dp[i-2]
+        int res = 0;
 
-
-        for( int i = 2; i<= n; i++){
-            dp[i] = dp[i-1] + dp[i-2];
+        for(int i = 2; i <= n; i++){
+            res = prev1 + prev2; // 1. Calculate the current step
+            prev2 = prev1;       // 2. Shift prev2 forward
+            prev1 = res;         // 3. Shift prev1 forward to the new result
         } 
 
-        return dp[n];
+        return res;
     }
 };
