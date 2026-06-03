@@ -763,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0790-domino-and-tromino-tiling) |
 | [0887-super-egg-drop](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0887-super-egg-drop) |
 | [1049-last-stone-weight-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
