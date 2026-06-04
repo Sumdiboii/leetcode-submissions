@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1813-maximum-erasure-value](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1813-maximum-erasure-value) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Segment Tree
@@ -994,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Game Theory
 |  |
