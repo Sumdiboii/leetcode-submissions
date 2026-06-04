@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Game Theory
 |  |
