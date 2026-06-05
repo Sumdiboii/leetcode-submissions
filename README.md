@@ -969,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0141-linked-list-cycle) |
