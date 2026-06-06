@@ -2,23 +2,24 @@ class Solution {
 public:
     vector<int> leftRightDifference(vector<int>& nums) {
         int n = nums.size();
-        vector<int> leftSum(n, 0);
-        vector<int> rightSum(n, 0);
         vector<int> ans(n);
         
-        // Build the leftSum array (Prefix sum)
-        for (int i = 1; i < n; i++) {
-            leftSum[i] = leftSum[i - 1] + nums[i - 1];
-        }
-        
-        // Build the rightSum array (Suffix sum)
-        for (int i = n - 2; i >= 0; i--) {
-            rightSum[i] = rightSum[i + 1] + nums[i + 1];
-        }
-        
-        // Calculate the absolute difference
         for (int i = 0; i < n; i++) {
-            ans[i] = abs(leftSum[i] - rightSum[i]);
+            int leftSum = 0;
+            int rightSum = 0;
+            
+            // Calculate sum of elements to the left
+            for (int j = 0; j < i; j++) {
+                leftSum += nums[j];
+            }
+            
+            // Calculate sum of elements to the right
+            for (int j = i + 1; j < n; j++) {
+                rightSum += nums[j];
+            }
+            
+            // Store the absolute difference
+            ans[i] = abs(leftSum - rightSum);
         }
         
         return ans;
