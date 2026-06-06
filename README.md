@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2542-maximum-subsequence-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2564-substring-xor-queries](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2564-substring-xor-queries) |
+| [2574-left-and-right-sum-differences](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2485-find-the-pivot-integer) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
+| [2574-left-and-right-sum-differences](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
