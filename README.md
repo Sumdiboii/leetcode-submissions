@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0459-repeated-substring-pattern) |
+| [0481-magical-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0481-magical-string) |
 | [0520-detect-capital](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0541-reverse-string-ii) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
