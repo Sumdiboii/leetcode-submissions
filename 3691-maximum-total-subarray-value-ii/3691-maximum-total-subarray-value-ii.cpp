@@ -1,132 +1,128 @@
-#include <vector>
-#include <deque>
-#include <algorithm>
+struct SparseTable {
+	int n, K;
+	vector<vector<int>> mn, mx;
+	vector<int> lg;
 
-using namespace std;
+	SparseTable(const vector<int>& arr) {
+		n = arr.size();
+		K = log2(n) + 1;
+
+		mn.assign(K, vector<int>(n));
+		mx.assign(K, vector<int>(n));
+		lg.assign(n + 1, 0);
+
+		for (int i = 2; i <= n; i++)
+			lg[i] = lg[i / 2] + 1;
+
+		for (int i = 0; i < n; i++) {
+			mn[0][i] = arr[i];
+			mx[0][i] = arr[i];
+		}
+
+		for (int k = 1; k < K; k++) {
+			for (int i = 0; i + (1 << k) <= n; i++) {
+				mn[k][i] = min(mn[k - 1][i],
+					mn[k - 1][i + (1 << (k - 1))]);
+
+				mx[k][i] = max(mx[k - 1][i],
+					mx[k - 1][i + (1 << (k - 1))]);
+			}
+		}
+	}
+
+	int getMin(int L, int R) {
+		int k = lg[R - L + 1];
+		return min(mn[k][L], mn[k][R - (1 << k) + 1]);
+	}
+
+	int getMax(int L, int R) {
+		int k = lg[R - L + 1];
+		return max(mx[k][L], mx[k][R - (1 << k) + 1]);
+	}
+};
 
 class Solution {
-    // Structure for our Monotonic Stacks to keep track of interval sums
-    struct Element {
-        int start_idx;
-        int end_idx;
-        long long val;
-        long long pref_contrib;
-    };
-
-    // Helper: Count how many subarrays have value >= V
-    long long countSubarrays(const vector<int>& nums, long long V) {
-        int n = nums.size();
-        long long count = 0;
-        int left = 0;
-        deque<int> max_dq, min_dq;
-
-        for (int r = 0; r < n; ++r) {
-            // Maintain sliding window maximums and minimums
-            while (!max_dq.empty() && nums[max_dq.back()] <= nums[r]) max_dq.pop_back();
-            max_dq.push_back(r);
-            
-            while (!min_dq.empty() && nums[min_dq.back()] >= nums[r]) min_dq.pop_back();
-            min_dq.push_back(r);
-
-            // Shrink window while the difference >= V
-            while (!max_dq.empty() && !min_dq.empty() && nums[max_dq.front()] - nums[min_dq.front()] >= V) {
-                left++;
-                if (max_dq.front() < left) max_dq.pop_front();
-                if (min_dq.front() < left) min_dq.pop_front();
-            }
-            // `left` is exactly the number of valid starting points for this `r`
-            count += left; 
-        }
-        return count;
-    }
-
-    // Helper: Query the sum of elements from index 0 to L using the Monotonic Stack
-    long long queryStack(int L, const vector<Element>& stk) {
-        if (L < 0) return 0;
-        
-        // Binary search to find the block containing the index L
-        int low = 0, high = stk.size() - 1, idx = -1;
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            if (stk[mid].start_idx <= L) {
-                idx = mid;
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
-        }
-        
-        if (idx == -1) return 0;
-        long long sum = (idx > 0 ? stk[idx - 1].pref_contrib : 0);
-        sum += (long long)(min(L, stk[idx].end_idx) - stk[idx].start_idx + 1) * stk[idx].val;
-        return sum;
-    }
-
+	typedef long long ll;
+	struct Item {
+		int beg;
+		int end;
+		int diff;
+	};
 public:
-    long long maxTotalValue(vector<int>& nums, int k) {
-        // Step 1: Binary search to find the exact k-th largest value
-        long long low = 0, high = 1e9, V_star = 0;
-        while (low <= high) {
-            long long mid = low + (high - low) / 2;
-            if (countSubarrays(nums, mid) >= k) {
-                V_star = mid;
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
-        }
+	long long maxTotalValue(vector<int>& nums, int k) {
+		if (nums.size() < 3) {
+			if (nums.size() < 2) {
+				return 0;
+			}
+			return std::max(nums[0], nums[1]) - std::min(nums[0], nums[1]);
+		}
 
-        int n = nums.size();
-        long long total_sum = 0, count = 0;
-        int left = 0;
-        deque<int> max_dq, min_dq;
-        vector<Element> max_stack, min_stack;
+		vector<pair<int, int>> minMax(nums.size(), { nums.back(), nums.back() });
+		for (int i = (int)nums.size() - 2; i >= 0; i--) {
+			if (nums[i] < minMax[i + 1].first) {
+				minMax[i].first = nums[i];
+			}
+			else {
+				minMax[i].first = minMax[i + 1].first;
+			}
+			if (nums[i] > minMax[i + 1].second) {
+				minMax[i].second = nums[i];
+			}
+			else {
+				minMax[i].second = minMax[i + 1].second;
+			}
+		}
 
-        // Step 2: Sweep the array to compute the actual sums
-        for (int r = 0; r < n; ++r) {
-            
-            // --- Update Max Stack with Prefix Data ---
-            int start = r;
-            while (!max_stack.empty() && max_stack.back().val <= nums[r]) {
-                start = max_stack.back().start_idx;
-                max_stack.pop_back();
-            }
-            long long prev_pref = max_stack.empty() ? 0 : max_stack.back().pref_contrib;
-            long long contrib = (long long)(r - start + 1) * nums[r];
-            max_stack.push_back({start, r, nums[r], prev_pref + contrib});
+		ll diff = minMax.front().second - minMax.front().first;
+		if (diff == 0) {
+			return 0;
+		}
+		ll totCount = 0;
+		int mnid = -1;
+		int mxid = -1;
+		for (int i = 0; i < nums.size(); i++) {
+			if (nums[i] == minMax.front().first) {
+				mnid = i;
+			}
+			if (nums[i] == minMax.front().second) {
+				mxid = i;
+			}
+			if (mnid != -1 && mxid != -1) {
+				totCount += min(mnid, mxid) + 1;
+			}
+		}
+		if (totCount >= k) {
+			return diff * (ll)k;
+		}
+		SparseTable st(nums);
+		
+		int beg = 0;
+		int end = nums.size() - 1;
+		vector<Item> heap;
+		auto hs = [](const Item& it1, const Item& it2)
+			{ return it1.diff < it2.diff; };
+		while (beg <= end) {
+			int mx = st.getMax(beg, end);
+			int mn = st.getMin(beg, end);
+			heap.push_back({beg, end, mx - mn});
+			std::push_heap(heap.begin(), heap.end(), hs);
+			beg++;
+		}
+		totCount = 0;
+		while (k > 0) {
+			auto item = heap.front();
+			std::pop_heap(heap.begin(), heap.end(), hs);
+			heap.pop_back();
+			totCount += item.diff;
+			k--;
+			if ((item.beg < item.end) && (k > 0)) {
+				int mx = st.getMax(item.beg, item.end - 1);
+				int mn = st.getMin(item.beg, item.end - 1);
+				heap.push_back({ item.beg, item.end - 1, mx - mn });
+				std::push_heap(heap.begin(), heap.end(), hs);
+			}
+		}
 
-            // --- Update Min Stack with Prefix Data ---
-            start = r;
-            while (!min_stack.empty() && min_stack.back().val >= nums[r]) {
-                start = min_stack.back().start_idx;
-                min_stack.pop_back();
-            }
-            prev_pref = min_stack.empty() ? 0 : min_stack.back().pref_contrib;
-            contrib = (long long)(r - start + 1) * nums[r];
-            min_stack.push_back({start, r, nums[r], prev_pref + contrib});
-
-            // --- Update Sliding Window ---
-            while (!max_dq.empty() && nums[max_dq.back()] <= nums[r]) max_dq.pop_back();
-            max_dq.push_back(r);
-            
-            while (!min_dq.empty() && nums[min_dq.back()] >= nums[r]) min_dq.pop_back();
-            min_dq.push_back(r);
-
-            // Shrink window while difference >= V_star
-            while (!max_dq.empty() && !min_dq.empty() && nums[max_dq.front()] - nums[min_dq.front()] >= V_star) {
-                left++;
-                if (max_dq.front() < left) max_dq.pop_front();
-                if (min_dq.front() < left) min_dq.pop_front();
-            }
-
-            count += left;
-            
-            // Query the precise sum of maxes and mins for all valid subarrays ending at `r`
-            total_sum += queryStack(left - 1, max_stack) - queryStack(left - 1, min_stack);
-        }
-
-        // Step 3: Exact target correlation
-        // If we counted more subarrays than `k` (because multiple had exactly V_star difference)
-        return total_sum - (count - k) * V_star;
-    }
+		return totCount;
+	}
 };
