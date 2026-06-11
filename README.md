@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3462-vowels-game-in-a-string) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -1119,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
