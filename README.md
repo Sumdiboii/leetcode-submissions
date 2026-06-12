@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3637-trionic-array-i) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3462-vowels-game-in-a-string) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
 | [2564-substring-xor-queries](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2564-substring-xor-queries) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -1124,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1156,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
