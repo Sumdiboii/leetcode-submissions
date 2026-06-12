@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1268-search-suggestions-system) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1392-longest-happy-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -1053,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1392-longest-happy-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1273,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0706-design-hashmap) |
+| [1392-longest-happy-prefix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1392-longest-happy-prefix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1296,4 +1299,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
