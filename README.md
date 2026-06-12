@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0290-word-pattern) |
@@ -1049,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0796-rotate-string) |
 ## Divide and Conquer
@@ -1268,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0706-design-hashmap) |
 ## Graph Theory
@@ -1289,4 +1292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0912-sort-an-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
