@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3396-valid-word) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3462-vowels-game-in-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2479-meeting-rooms-iii) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
