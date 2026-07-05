@@ -11,4 +11,4 @@ ON
 WHERE 
     t.transaction_id IS NULL
 GROUP BY 
-    v.customer_id;
+    v.customer_id ;
