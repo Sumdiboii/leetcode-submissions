@@ -1,15 +1,13 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        seen = {};
-
-        for i, num in enumerate(nums):
-            complement = target - num;
-
-            if complement in seen:
-                return [seen[complement], i];
-
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        num_map = {}
         
-
-            seen[num] = i;
-
-        return [];
+        for i, num in enumerate(nums):
+            complement = target - num
+            
+            if complement in num_map:
+                return [num_map[complement], i]
+                
+            num_map[num] = i
+            
+        return []
