@@ -1,8 +1,8 @@
-# Write your MySQL query statement below
-
-SELECT
-    e.unique_id,
-    ee.name
-FROM Employees ee
-LEFT JOIN EmployeeUNI e
-ON ee.id = e.id;
+-- 3. Replace Employee ID With The Unique Identifier (LeetCode 1378)
+SELECT 
+    EmployeeUNI.unique_id, 
+    Employees.name
+FROM 
+    Employees
+LEFT JOIN 
+    EmployeeUNI ON Employees.id = EmployeeUNI.id;
