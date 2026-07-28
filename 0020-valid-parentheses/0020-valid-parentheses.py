@@ -1,21 +1,23 @@
 class Solution:
+    # 1. Valid Parentheses (LeetCode 20)
     def isValid(self, s: str) -> bool:
-        # A dictionary makes mapping closing to opening brackets very clean
-        bracket_map = {')': '(', ']': '[', '}': '{'}
+        # Stack to keep track of opening brackets
         stack = []
+        # Mapping of closing brackets to their corresponding opening brackets
+        mapping = {")": "(", "}": "{", "]": "["}
         
         for char in s:
             # If the character is a closing bracket
-            if char in bracket_map:
-                # Pop the top element if the stack isn't empty, otherwise use a dummy
+            if char in mapping:
+                # Pop the top element from stack if it's not empty, else assign a dummy value
                 top_element = stack.pop() if stack else '#'
                 
-                # If the popped element doesn't match the required opening bracket
-                if bracket_map[char] != top_element:
+                # If the mapped opening bracket doesn't match the stack's top element, return False
+                if mapping[char] != top_element:
                     return False
             else:
                 # If it's an opening bracket, push it onto the stack
                 stack.append(char)
-        
-        # If the stack is empty, it's valid
+                
+        # Return True if the stack is empty (all brackets matched), otherwise False
         return not stack
