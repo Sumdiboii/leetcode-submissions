@@ -1,5 +1,9 @@
-# Write your MySQL query statement below
-select product.product_name, sales.year, sales.price
-from sales 
-inner join product
-on sales.product_id = product.product_id
+-- 4. Product Sales Analysis I (LeetCode 1068)
+SELECT 
+    Product.product_name, 
+    Sales.year, 
+    Sales.price
+FROM 
+    Sales
+JOIN 
+    Product ON Sales.product_id = Product.product_id;
