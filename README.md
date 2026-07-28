@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0509-fibonacci-number) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0735-asteroid-collision) |
