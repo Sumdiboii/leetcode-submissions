@@ -1,5 +1,5 @@
 -- 5. Actors and Directors Who Cooperated At Least Three Times (LeetCode 1050)
-SELECT 
+SELECT distinct
     actor_id, 
     director_id 
 FROM 
