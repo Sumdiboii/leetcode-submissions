@@ -3,8 +3,8 @@ class Solution:
         minbuy = prices[0]
         profit = 0
 
-        for p in prices:
-            minbuy = min(minbuy, p)
-            profit = max(profit, p-minbuy)
+        for n in prices:
+            minbuy = min(minbuy, n)
+            profit = max(profit, n- minbuy)
 
         return profit
