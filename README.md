@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
