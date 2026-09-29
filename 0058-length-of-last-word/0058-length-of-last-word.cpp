@@ -1,18 +1,31 @@
 class Solution {
 public:
     int lengthOfLastWord(string s) {
-        int i = s.length() - 1;
+        int n = s.length();
+
+        // int ptr = n;
+        int i = n-1;
         int cnt = 0;
 
-        // 1. Skip trailing non-alphabet characters (like spaces) safely
-        while (i >= 0 && !isalpha(s[i])) {
-            i--;
+        if(s.empty()){
+            return 0;
         }
 
-        // 2. Count the characters of the last word
-        while (i >= 0 && isalpha(s[i])) {
+        while(i>= 0 && !isalpha(s[i])){
+           i--;
+        }
+
+
+        while(i >= 0){
+
+            if(!isalpha(s[i])){
+                break;
+            }
+
             cnt++;
             i--;
+            
+
         }
 
         return cnt;
