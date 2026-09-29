@@ -1,26 +1,29 @@
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
-        int n = s.length();
-        int m = t.length();
+        int target = s.length();
+        int cnt = 0;
 
-        // Edge case: s cannot be a subsequence of t if it's longer
-        if (n > m) return false;
-
-        int i = 0; // Pointer for s
-        int j = 0; // Pointer for t
-
-        // Traverse both strings
-        while (i < n && j < m) {
-            // If characters match, move the pointer in s
-            if (s[i] == t[j]) {
-                i++;
-            }
-            // Always move the pointer in t
-            j++;
+        if( s.length() > t.length()){
+            return false;
+        }
+        else if (s.length() == t.length() && s == t){
+            return true;
         }
 
-        // If we successfully matched all characters of s, i will equal n
-        return i >= n;
+       
+        for( int i = 0 ; i< t.length(); i++){
+            if(t[i] == s[cnt]){
+                target--;
+                cnt++;
+            }
+
+            if(target == 0){
+                return true;
+            }
+        }
+
+        return false;
+
     }
 };
