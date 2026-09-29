@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-substring-xor-queries](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2564-substring-xor-queries) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2938-separate-black-and-white-balls](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2938-separate-black-and-white-balls) |
+| [3110-score-of-a-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3110-score-of-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3396-valid-word) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
