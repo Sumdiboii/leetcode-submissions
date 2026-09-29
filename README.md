@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2223-sum-of-scores-of-built-strings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2564-substring-xor-queries](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2564-substring-xor-queries) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2938-separate-black-and-white-balls](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2938-separate-black-and-white-balls) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2542-maximum-subsequence-score) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2938-separate-black-and-white-balls](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2938-separate-black-and-white-balls) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
