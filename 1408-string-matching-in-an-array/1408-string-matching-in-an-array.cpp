@@ -11,8 +11,8 @@ public:
         int n = words.size();
         for (int i = 0; i < n; i++) {
             // Only check strings that are longer (or equal) than words[i]
-            for (int j = i + 1; j < n; j++) {
-                if (words[j].find(words[i]) != string::npos) {
+            for (int j = 0; j < n; j++) {
+                if (i != j && words[j].find(words[i]) != string::npos) {
                     res.push_back(words[i]);
                     break;
                 }
