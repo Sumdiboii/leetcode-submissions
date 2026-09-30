@@ -4,29 +4,26 @@ public:
 
         int n = strs.size();
 
-        if(n == 0){
+        if (n == 0) {
             return "";
         }
-
 
         string res = "";
 
         sort(strs.begin(), strs.end());
 
         string first = strs[0];
-        string second = strs[n-1];
+        string second = strs[n - 1];
 
         int lmt = min(first.size(), second.size());
 
-        for( int i = 0; i<lmt;i++){
-            if(first[i] == second[i]){
+        for (int i = 0; i < lmt; i++) {
+            if (first[i] == second[i]) {
                 res += first[i];
-            }else{
+            } else {
                 break;
             }
         }
-return res;
-
-
+        return res;
     }
 };
