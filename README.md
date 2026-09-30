@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
+| [1408-string-matching-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1392-longest-happy-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1408-string-matching-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1392-longest-happy-prefix) |
+| [1408-string-matching-in-an-array](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1408-string-matching-in-an-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Divide and Conquer
 |  |
