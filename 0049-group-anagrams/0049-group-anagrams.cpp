@@ -1,22 +1,31 @@
+#include <vector>
+#include <string>
+#include <unordered_map>
+#include <algorithm>
+
+using namespace std;
+
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        unordered_map<string, vector<string>> res;
-        for (const auto& s : strs) {
-            vector<int> count(26, 0);
-            for (char c : s) {
-                count[c - 'a']++;
-            }
-            string key = to_string(count[0]);
-            for (int i = 1; i < 26; ++i) {
-                key += ',' + to_string(count[i]);
-            }
-            res[key].push_back(s);
+        unordered_map<string, vector<string>> mp;
+
+        for (string& s : strs) {
+            string key = s;
+            sort(key.begin(), key.end());
+            
+            // Move string buffer directly into hash map without reallocation
+            mp[key].push_back(move(s));
         }
+
         vector<vector<string>> result;
-        for (const auto& pair : res) {
-            result.push_back(pair.second);
+        result.reserve(mp.size()); // Pre-allocate outer vector memory
+
+        for (auto& pair : mp) {
+            // Move whole inner vector in O(1) time
+            result.push_back(move(pair.second));
         }
+
         return result;
     }
 };
