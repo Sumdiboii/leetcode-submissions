@@ -17,6 +17,7 @@ public:
             else { // nums[m] == 2
                 swap(nums[m], nums[r]);
                 r--;
+               
             }
         }
     }
