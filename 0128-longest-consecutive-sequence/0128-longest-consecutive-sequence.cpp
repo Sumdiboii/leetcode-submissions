@@ -14,9 +14,10 @@ public:
             } else if (nums[i] == nums[i - 1] + 1) {
                 current++; // Consecutive element found
             } else {
-                longest = max(longest, current);
+                
                 current = 1; // Reset to 1 for a new sequence
             }
+            longest = max(longest, current);
         }
         
         return max(longest, current); // Catch the last streak
