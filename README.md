@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0682-baseball-game) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0704-binary-search](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0705-design-hashset) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sumdiboii/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -987,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0844-backspace-string-compare) |
