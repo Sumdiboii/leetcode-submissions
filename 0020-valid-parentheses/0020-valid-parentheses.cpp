@@ -8,6 +8,7 @@ public:
             if (umap.contains(ch)) {
                 if (!st.empty() && st.top() == umap[ch]) {
                     st.pop();
+                    continue;
                 } else {
                     return false;
                 }
