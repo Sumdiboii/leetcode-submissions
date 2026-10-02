@@ -1,44 +1,32 @@
 class MinStack {
+    stack<int> stk;
+    stack<int> minstk;
+
 public:
-    MinStack() {
-        
-    }
+    MinStack() {}
 
-    stack<int> s1;
-    stack<int> s2;
-    
-    void push(int val) {
-        
-        s1.push(val);
+    void push(int value) {
+        stk.push(value);
 
-        if(s2.empty()){
-            s2.push(val);
-
-        }
-        else{
-            s2.push(min(val, s2.top()));
+        // If minstk is empty, value is the current minimum.
+        // Otherwise, push the smaller of value and the current minimum.
+        if (minstk.empty()) {
+            minstk.push(value);
+        } else {
+            minstk.push(min(value, minstk.top()));
         }
     }
-    
+
     void pop() {
-        s1.pop();
-        s2.pop();
+        stk.pop();
+        minstk.pop(); // Keeps the history log perfectly in sync
     }
-    
+
     int top() {
-        return s1.top();
+        return stk.top();
     }
-    
+
     int getMin() {
-        return s2.top();
+        return minstk.top();
     }
 };
-
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack* obj = new MinStack();
- * obj->push(val);
- * obj->pop();
- * int param_3 = obj->top();
- * int param_4 = obj->getMin();
- */
