@@ -1,47 +1,38 @@
 class MyQueue {
-    stack<int> st1;
-    stack<int> st2;
+    stack<int> st;
+    stack<int> mock;
+
 public:
-    MyQueue() {
-        
-    }
+    MyQueue() {}
     
     void push(int x) {
-        st1.push(x);
+        // Step 1: Move all elements from st to mock
+        while (!st.empty()) {
+            mock.push(st.top());
+            st.pop();
+        }
+
+        // Step 2: Push x into empty st (it goes to the bottom)
+        st.push(x);
+
+        // Step 3: Move everything back from mock to st
+        while (!mock.empty()) {
+            st.push(mock.top());
+            mock.pop();
+        }
     }
     
     int pop() {
-        if(st2.empty()){
-            while(!st1.empty()){
-                st2.push(st1.top());
-                st1.pop();
-            }
-        }
-        int val = st2.top();
-        st2.pop();
+        int val = st.top();
+        st.pop();
         return val;
     }
     
     int peek() {
-        if(st2.empty()){
-            while(!st1.empty()){
-                st2.push(st1.top());
-                st1.pop();
-            }
-        }
-        return st2.top();
+        return st.top();
     }
     
     bool empty() {
-        return st1.empty() && st2.empty();
+        return st.empty();
     }
 };
-
-/**
- * Your MyQueue object will be instantiated and called as such:
- * MyQueue* obj = new MyQueue();
- * obj->push(x);
- * int param_2 = obj->pop();
- * int param_3 = obj->peek();
- * bool param_4 = obj->empty();
- */
