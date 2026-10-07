@@ -1,19 +1,25 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> umap;
+        vector<pair<int, int>> temp;
 
-        int diff = 0;
+        for( int i = 0; i< nums.size(); i++){
+            temp.push_back({nums[i], i});
+        }
 
-        for(int i = 0; i< nums.size(); i++){
+        sort(temp.begin(), temp.end());
 
-            diff = target - nums[i];
+        int l = 0; 
+        int r = temp.size() - 1;
 
-            if(umap.contains(diff)){
-                return {i, umap[diff]};
+        while(l<r){
+            if(temp[l].first + temp[r].first == target){
+                return {temp[l].second, temp[r].second};
+            }else if(temp[l].first + temp[r].first > target){
+                r--;
+            }else{
+                l++;
             }
-
-            umap[nums[i]] = i;
         }
 
         return {};
