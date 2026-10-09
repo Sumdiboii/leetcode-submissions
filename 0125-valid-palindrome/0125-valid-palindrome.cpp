@@ -1,31 +1,31 @@
+#include <iostream>
+#include <string>
+#include <cctype>
+
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int l = 0; 
-        int r = s.length() - 1;
+        int i = 0;
+        int j = (int)s.length() - 1;
 
-        while (l < r) {
-            // If left character is not alphanumeric, skip it and restart loop
-            if (!isalnum(s[l])) {
-                l++;
-                continue; 
+        while (i < j) {
+            // Skip non-alphanumeric characters from the left
+            if (!isalnum(s[i])) {
+                i++;
             }
-            
-            // If right character is not alphanumeric, skip it and restart loop
-            if (!isalnum(s[r])) {
-                r--;
-                continue;
+            // Skip non-alphanumeric characters from the right
+            else if (!isalnum(s[j])) {
+                j--;
             }
-
-            // Now both s[l] and s[r] are guaranteed to be valid alphanumeric characters
-            if (tolower(s[l]) == tolower(s[r])) {
-                l++; 
-                r--;
-            } else {
-                return false;
+            // Compare lowercase versions of the characters
+            else {
+                if (tolower(s[i]) != tolower(s[j])) {
+                    return false;
+                }
+                i++;
+                j--;
             }
         }
-
         return true;
     }
 };
