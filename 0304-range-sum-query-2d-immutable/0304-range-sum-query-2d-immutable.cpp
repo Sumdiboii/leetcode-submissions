@@ -1,29 +1,28 @@
 class NumMatrix {
 private:
-    vector<vector<int>> prefixSum;
+    vector<vector<int>> sumMat;
 
 public:
     NumMatrix(vector<vector<int>>& matrix) {
-        int rows = matrix.size(), cols = matrix[0].size();
-        prefixSum = vector<vector<int>>(rows, vector<int>(cols, 0));
+        int ROWS = matrix.size(), COLS = matrix[0].size();
+        sumMat = vector<vector<int>>(ROWS + 1, vector<int>(COLS + 1, 0));
 
-        for (int row = 0; row < rows; row++) {
-            prefixSum[row][0] = matrix[row][0];
-            for (int col = 1; col < cols; col++) {
-                prefixSum[row][col] = prefixSum[row][col - 1] + matrix[row][col];
+        for (int r = 0; r < ROWS; r++) {
+            int prefix = 0;
+            for (int c = 0; c < COLS; c++) {
+                prefix += matrix[r][c];
+                int above = sumMat[r][c + 1];
+                sumMat[r + 1][c + 1] = prefix + above;
             }
         }
     }
 
     int sumRegion(int row1, int col1, int row2, int col2) {
-        int res = 0;
-        for (int row = row1; row <= row2; row++) {
-            if (col1 > 0) {
-                res += prefixSum[row][col2] - prefixSum[row][col1 - 1];
-            } else {
-                res += prefixSum[row][col2];
-            }
-        }
-        return res;
+        row1++; col1++; row2++; col2++;
+        int bottomRight = sumMat[row2][col2];
+        int above = sumMat[row1 - 1][col2];
+        int left = sumMat[row2][col1 - 1];
+        int topLeft = sumMat[row1 - 1][col1 - 1];
+        return bottomRight - above - left + topLeft;
     }
 };
