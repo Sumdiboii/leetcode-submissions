@@ -1400,4 +1400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0020-valid-parentheses) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Sumdiboii/leetcode-submissions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
