@@ -10,7 +10,7 @@ public:
 
         for (int i = 0; i < x; i++) {
             res += word1[i];
-            res +=word2[i];
+            res += word2[i];
         }
 
 
