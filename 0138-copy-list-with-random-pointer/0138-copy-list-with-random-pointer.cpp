@@ -5,7 +5,7 @@ public:
     int val;
     Node* next;
     Node* random;
-
+    
     Node(int _val) {
         val = _val;
         next = NULL;
@@ -17,24 +17,30 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        unordered_map<Node*, Node*> oldToCopy;
-        oldToCopy[NULL] = NULL;
+        unordered_map<Node*, Node*> umap;
+        Node* curr = head;
+        umap[NULL] = NULL;
 
-        Node* cur = head;
-        while (cur != NULL) {
-            Node* copy = new Node(cur->val);
-            oldToCopy[cur] = copy;
-            cur = cur->next;
+        while(curr){
+            Node* copy = new Node(curr->val);
+
+            umap[curr] = copy;
+            curr = curr->next;
         }
 
-        cur = head;
-        while (cur != NULL) {
-            Node* copy = oldToCopy[cur];
-            copy->next = oldToCopy[cur->next];
-            copy->random = oldToCopy[cur->random];
-            cur = cur->next;
+        curr = head;
+
+
+        while(curr){
+
+            Node* copyptr = umap[curr];
+            // Connect the clone's pointers using the map lookups
+            copyptr->next = umap[curr->next];     // Fix: Added next pointer assignment
+            copyptr->random = umap[curr->random]; // Fix: Keeps Node* lookup instead of val
+            curr = curr ->next;
         }
 
-        return oldToCopy[head];
+
+        return umap[head];
     }
 };
