@@ -1,4 +1,4 @@
-/**
+/** 
  * Forward declaration of guess API.
  * @param  num   your guess
  * @return 	     -1 if num is higher than the picked number
@@ -10,21 +10,28 @@
 class Solution {
 public:
     int guessNumber(int n) {
-        // Binary Search
-        int start = 1;
-        int end = n;
-        int mid;
-        while (start <= end) {
-            mid = start + (end - start) / 2;
+        int l = 0;
+        int r = n;
+        int m = 0;
 
-            int res = guess(mid);
-            if (res == 0)
-                break;
-            else if (res == -1)
-                end = mid - 1;
-            else
-                start = mid + 1;
+        int choice = 0;
+
+        while(l<=r){
+
+            m = l + (r-l)/2;
+
+            choice = guess(m);
+
+            if( choice == 0){
+                return m;
+            }else if (choice == -1){
+                r = m-1;
+            }else{
+                l = m+1;
+            }
         }
-        return mid;
+
+
+        return m;
     }
 };
